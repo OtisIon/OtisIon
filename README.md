@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my DSA skills and building small projects  <br>🤝 I’m looking to collaborate on beginner-friendly projects in Java, Python, or AI  <br>🆘 I’m looking for help with problem solving, coding logic, and real-world projects  <br>🌱 I’m currently learning Java, Python, and Data Structures & Algorithms  <br>💬 Ask me about basic coding, GitHub, and my learning journey  <br>⚡ Fun fact: I solve at least 3 coding problems daily 🚀<br>
+## 👋 About Me
+
+🔭 I’m currently working on improving my DSA skills and building small projects <br>
+💻 I’m learning **Java, Python, Data Structures & Algorithms, and Web Development** <br>
+🤝 I’m open to collaborating on beginner-friendly projects in **Java, Python, Web Dev, or AI** <br>
+🧠 I’m interested in solving coding problems and building real-world applications <br>
+💬 Open to conversations about **Java, Python, Web Development, DSA, and beginner projects** <br>
+🚀 Currently focused on **growing as a developer and exploring different tech stacks**
 
 
 ## 🌐 Socials:
